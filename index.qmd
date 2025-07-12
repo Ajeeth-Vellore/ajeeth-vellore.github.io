@@ -1,0 +1,13 @@
+---
+title: "personal_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Hello hello!
+
+This is my website. I'm testing to see if this works. Eventually, this will
+become a sort of living resume (and perhaps include some of my own general
+thoughts as well)!
