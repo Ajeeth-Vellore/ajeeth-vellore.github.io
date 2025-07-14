@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "engineering.html",
+    "href": "engineering.html",
+    "title": "Engineering Projects",
     "section": "",
-    "text": "About this site"
+    "text": "About the engineering projects I’ve done"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "Introductory Page",
     "section": "",
     "text": "Hello hello!\nThis is my website. I’m testing to see if this works. Eventually, this will become a sort of living resume (and perhaps include some of my own general thoughts as well)!\nSecond update to see something"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Work",
+    "section": "",
+    "text": "About my research"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
