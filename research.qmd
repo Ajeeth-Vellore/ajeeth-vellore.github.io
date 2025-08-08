@@ -19,7 +19,11 @@ material samples.
 []
 
 The figure shown above describes the process by which ExplainHD, the
-aforementioned methodology, operates to classify part samples. [DESCRIBE THE 
+aforementioned methodology, operates to classify part samples. The procedure
+starts with hyperdimensional encoding, where data is rewritten to be represented
+with -1, 0, and +1.
+
+[DESCRIBE THE 
 FIGURE FURTHER HERE]
 
 2. PSPRAG: Utilizing an Efficient Language Model to Access In-Depth Material
