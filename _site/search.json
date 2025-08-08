@@ -4,7 +4,7 @@
     "href": "engineering.html",
     "title": "Engineering Projects",
     "section": "",
-    "text": "About the engineering projects I’ve done"
+    "text": "While in college, I was a part of a wonderful club called UConn Formula SAE. There, I got to work on some interesting projects pertaining to mechanical design for an amateur racecar. Below are some highlights of the stuff I got to do through the years:\n\nSuspension\nFrame"
   },
   {
     "objectID": "index.html",
@@ -18,13 +18,13 @@
     "href": "research.html",
     "title": "Research Work",
     "section": "",
-    "text": "About my research"
+    "text": "Working in Dr. Farhad Imani’s Integrated Systems and Control Laboratory (ISCL) at the University of Connecticut, I did research utilizing machine learning to better understand the multiphysics of additive manufacturing.\n\nExplainHD: Neuro-Symbolic Computing for Explainable Characterization of Process-Structure-Property Relationships\n\nMachine learning can accurately predict material properties from machine characteristics. However, we as humans are incapable of tracing our fingers through its answers to understand how it came up with them. What this work aims to do is create a methodology for explainably detailing the importance that individual features of data have in contributing to correct characterizations of material samples.\n[]\nThe figure shown above describes the process by which ExplainHD, the aforementioned methodology, operates to classify part samples. [DESCRIBE THE FIGURE FURTHER HERE]\n\nPSPRAG: Utilizing an Efficient Language Model to Access In-Depth Material Information for Additive Manufacturing\n\nBecause of the multiphysics nature of additive manufacturing, much study has been taken to identify the behavior of a given material within a given process under given processing conditions. These previous research works have identified which sets of parameters are productive, but because of the wide variety of setups and final results, it is difficult to easily identify correct interpolations and valuable information for additive manufacturing calibration. To remedy this, I wrote my thesis about my work on PSPRAG, a Retrieval-Augmented Generation method for generating accurate process-structure-property-related information for a given"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hey folks! My name is Ajeeth Vellore, and I’m a mechanical engineer by education (but many other things by circumstance) and this website is a place where I express myself a little bit. Obviously, some of you will come here looking for resume stuff, and that’s fine by me. I’ll even point you in the right direction for that here.\nBut, there’s a lot of things I wanna talk about. So, if you have the time, feel free to roam and see what I’ve put up here. Who knows, maybe I’ll even have a video or two for you to look at!"
   }
 ]

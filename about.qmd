@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+Hey folks! My name is Ajeeth Vellore, and I'm a mechanical engineer by education
+(but many other things by circumstance) and this website is a place where I
+express myself a little bit. Obviously, some of you will come here looking for
+resume stuff, and that's fine by me. I'll even point you in the right direction
+for that here.
+
+But, there's a lot of things I wanna talk about. So, if you have the time, feel
+free to roam and see what I've put up here. Who knows, maybe I'll even have a
+video or two for you to look at!
